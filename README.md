@@ -1,6 +1,6 @@
 <div align="center">
     <h1>😼 Hi there! I'm HONG, Yuxiang</h1>
-    <p>Student Researcher & Developer focused on <strong>Vision-Language Models (VLM)</strong>, <strong>NLP</strong>, and <strong>Deep Learning</strong>.</p>
+    <p>Student Researcher & Developer focused on <strong>Vision-Language Models (VLM)</strong>, <strong>Natural Language Processing (NLP)</strong>, and <strong>Deep Learning</strong>.</p>
 </div>
 
 ---
